@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC FREEmium",BKZ&IC FREEmium
+#EXTINF:-1 tvg-logo="https://i.imgur.com/96gQKGt.jpg" group-title="BKZ&IC FREEmium",BKZ&IC FREEmium  http://join?invite=Kmqm_VTsRGP-_6PwVpMUDA
 https://cdn-accedo-01.akamaized.net/Content/DASH/Live/channel(d38de229-8abc-4072-91d4-2c42935f7e3b)/manifest.mpd
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC FREEmium",Untuk kalangan sendiri
 http://stream2.ninmedia.tv/lapakmusiktv/rtmp.stream_360p/playlist.m3u8
@@ -115,7 +115,7 @@ https://livetvhooq.akamaized.net:443/f17ef07681bb44069d2e2f376e92e9c0/ap-southea
 https://livetvhooq.akamaized.net:443/166d36fe333a41e7846c47c07aa4919c/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1573599949~exp=9007200828340940~acl=/166d36fe333a41e7846c47c07aa4919c/*/profile_0/chunklist.m3u8*~hmac=f6dc30f96b4ccc9366031d95a30921884645efb4bedd2caf28eadee41e95bfd8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC FREEmium",JGO
 http://edge.linknetott.swiftserve.com/live/BsNew/amlst:bsenglish/playlist.m3u8
-#EXTINF:-1 group-title="Movies" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest/scale-to-width-down/340?cb=20190626075812" group-title="BKZ&IC FREEmium", &PictureHD
+#EXTINF:-1 group-title="BKZ&IC FREEmium" tvg-logo="https://vignette.wikia.nocookie.net/logopedia/images/d/d4/%26pictures_HD.png/revision/latest/scale-to-width-down/340?cb=20190626075812" group-title="BKZ&IC FREEmium", &PictureHD
 http://173.212.237.70/zee5.php?url=http://z5ams.akamaized.net/andpicshd/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/iFZ7vDG.png" group-title="BKZ&IC FREEmium",FOX
 http://203.153.218.28:9981/stream/channelid/756717990?ticket=397900FDAB149520DA6CD0E3E8F82F901132A27B&profile=pass
@@ -206,17 +206,17 @@ http://web.onair-radio.eu:1935/wixlar/wixlar/playlist.m3u8
 http://51.158.190.97/hls/stream.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC FREEmium",eGG Network
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch319)/02.m3u8
-#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/97/Logo_Home_Living.png/1200px-Logo_Home_Living.png" group-title="BKZ&IC FREEmium",Home & Living
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/id/thumb/9/97/Logo_Home_Living.png/1200px-Logo_Home_Living.png" group-title="BKZ Tipi Pengetahuan",Home & Living
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC FREEmium",Docubox
 http://livecdnh3.tvanywhere.ae/hls/docubox/03.m3u8
 #EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f5/History_Logo.svg/1000px-History_Logo.svg.png" group-title="BKZ&IC FREEmium",History 2
 http://livecdnh1.tvanywhere.ae/hls/h2/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC FREEmium",Love Nature
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ Tipi Pengetahuan",Love Nature
 https://dl.dropbox.com/s/a6x9ctd9fcbger2/LoveNature.m3u8?dl=0
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC FREEmium",English Club
 http://livecdnh2.tvanywhere.ae/hls/english_club/04.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC FREEmium",Discovery Turbo
+#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ Tipi Pengetahuan",Discovery Turbo
 http://streamidvo.multitvsolution.in/live/TurboEng-a/p4.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC FREEmium",Tasty
 https://dl.dropbox.com/s/t7kcrn2w3idpg86/Tasty.m3u8?dl=0
@@ -827,40 +827,10 @@ https://cdn-laos.workpoint.news/hd-history_720/index.m3u8
 https://cdn-laos.workpoint.news/hd-natgeo_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", DISCOVERY  
 https://cdn-laos.workpoint.news/hd-discovery_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", CH3  
-https://cdn-laos.workpoint.news/hd-ch3_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", CH5  
-https://cdn-laos.workpoint.news/hd-ch5_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", CH7  
-https://cdn-laos.workpoint.news/hd-ch7_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", CH8  
-https://cdn-laos.workpoint.news/hd-ch8_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", MCOT  
-https://cdn-laos.workpoint.news/hd-mcot_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", TPTV  
-https://cdn-laos.workpoint.news/sd-tptv_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", NBT  
-https://cdn-laos.workpoint.news/sd-nbt_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV" TPBS 
-https://cdn-laos.workpoint.news/hd-tpbs_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", THAIRATH  
 https://cdn-laos.workpoint.news/hd-thairath_720/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV",  PPTV 
 https://cdn-laos.workpoint.news/hd-pptv_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", QMMONE  
-https://cdn-laos.workpoint.news/hd-gmmone_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", WORKPOINT  
-https://cdn-laos.workpoint.news/hd-workpoint_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", MONO  
-https://cdn-laos.workpoint.news/hd-mono_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV",  AMARIN
-https://cdn-laos.workpoint.news/hd-amarin_720/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", TNN 24  
-https://cdn-laos.workpoint.news/sd-tnn24_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", NATION  
-https://cdn-laos.workpoint.news/sd-nation_480/index.m3u8
-#EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", 24U  
-https://cdn-laos.workpoint.news/sd-24u_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", MTV ASIA  
 https://cdn-laos.workpoint.news/sd-mtvasia_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", MTV LIVE  
@@ -912,6 +882,252 @@ https://cdn-laos.workpoint.news/sd-starchinesechannel_480/index.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/W48Uxa1.jpg" group-title="BKZ&IC TV", ARIRANG
 https://cdn-laos.workpoint.news/sd-arirang_480/index.m3u8
 
+
+====================================  usitipi ====================================
+
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein1_small1.png" group-title="BKZ Tipi Sport", beIN Sport 1
+https://vcdnjt.useetv.com/joss/15/bein1/chunklist_w1016639541_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bein2_small1.png" group-title="BKZ Tipi Sport", beIN Sport 2
+https://vcdnjt.useetv.com/joss/15/bein2/chunklist_w2057282260_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport_small.png" group-title="BKZ Tipi Sport", UseeSports1
+https://vcdnjt.useetv.com/joss/15/useesport/chunklist_w264859155_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useesport2_small.png" group-title="BKZ Tipi Sport", UseeSports2
+https://vcdnjt.useetv.com/joss/15/useesports2/chunklist_w194134386_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bwf_small.png" group-title="BKZ Tipi Sport", BWF
+https://vcdnjt.useetv.com/joss/15/bwf/chunklist_w158567956_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ1_small.png" group-title="BKZ Tipi Sport", Champion TV1
+https://vcdnjt.useetv.com/joss/15/champion1/chunklist_w740281198_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_champ2_small.png" group-title="BKZ Tipi Sport", Champion TV2
+https://vcdnjt.useetv.com/joss/15/champion2/chunklist_w1415968050_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports1_small.png" group-title="BKZ Tipi Sport", Fox Sport 1
+https://vcdnjt.useetv.com/joss/15/foxsport1/chunklist_w1027537107_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports2_small.png" group-title="BKZ Tipi Sport", Fox Sport 2 
+https://vcdnjt.useetv.com/joss/15/foxsport2/chunklist_w271851500_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_foxsports3_small.png" group-title="BKZ Tipi Sport", Fox Sport 3
+https://vcdnjt.useetv.com/joss/15/foxsport3/chunklist_w1650636222_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_golf_small1.png" group-title="BKZ Tipi Sport", Golf
+https://vcdnjt.useetv.com/joss/15/golfplus/chunklist_w887995232_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nba_small1.png" group-title="BKZ Tipi Sport", NBA
+https://vcdnjt.useetv.com/joss/15/nba/chunklist_w1429090294_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_egg_small1.png" group-title="BKZ Tipi Sport", eGG Network
+https://vcdnjt.useetv.com/joss/14/egg/chunklist_w345612280_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ruangtrampil_small.png" group-title="BKZ Tipi Lokal ID", Ruang Trampil
+https://vcdnjt.useetv.com/joss/15/useeinfo/chunklist_w88240952_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useephoto_small.png" group-title="BKZ Tipi Lokal ID", Usee Photo
+https://vcdnjt.useetv.com/joss/15/useephoto/chunklist_w714339258_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_useeprime_small1.png" group-title="BKZ Tipi Lokal ID", UseePrime
+https://vcdnjt.useetv.com/joss/15/useeprime/chunklist_w936342601_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idku2_small.png" group-title="BKZ Tipi Lokal ID", Idku 
+https://vcdnjt.useetv.com/joss/15/idku/chunklist_w1908099434_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antv_small1.png" group-title="BKZ Tipi Lokal ID", ANTV
+https://vcdnjt.useetv.com/joss/15/antv/chunklist_w1167501658_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_indosiar_small1.png" group-title="BKZ Tipi Lokal ID", Indosiar 
+https://vcdnjt.useetv.com/joss/15/indosiar/chunklist_w1582344820_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jitv_small.png" group-title="BKZ Tipi Lokal ID", JITV
+https://vcdnjt.useetv.com/joss/14/jitv/chunklist_w540332572_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kompastv_small.png" group-title="BKZ Tipi Lokal ID", Kompas TV
+https://vcdnjt.useetv.com/joss/15/kompastv/chunklist_w1618394783_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_metrotv_small1.png" group-title="BKZ Tipi Lokal ID", Metro TV
+https://vcdnjt.useetv.com/joss/15/metrotv/chunklist_w931446748_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_net_small1.png" group-title="BKZ Tipi Lokal ID", Net.
+https://vcdnjt.useetv.com/joss/15/net/chunklist_w740198760_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rtv_small1.png" group-title="BKZ Tipi Lokal ID", Rajawali TV 
+https://vcdnjt.useetv.com/joss/14/rtv/chunklist_w1437648012_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rri_small1.png" group-title="BKZ Tipi Lokal ID", RRI NET
+https://vcdnjt.useetv.com/joss/14/rrinet/chunklist_w1126953685_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sctv_small1.png" group-title="BKZ Tipi Lokal ID", SCTV
+https://vcdnjt.useetv.com/joss/15/sctv/chunklist_w45699636_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_trans7_small1.png" group-title="BKZ Tipi Lokal ID", Trans7
+https://vcdnjt.useetv.com/joss/15/trans7/chunklist_w1330132188_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_transtv_small1.png" group-title="BKZ Tipi Lokal ID", TransTV
+https://vcdnjt.useetv.com/joss/15/transtv/chunklist_w2007385645_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvone_small1.png" group-title="BKZ Tipi Lokal ID", TV One 
+https://vcdnjt.useetv.com/joss/15/tvone/chunklist_w1655335800_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_antara_small1.png" group-title="BKZ Tipi Lokal ID", Antara 
+https://vcdnjt.useetv.com/joss/14/antara/chunklist_w227894758_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_balitv_small1.png" group-title="BKZ Tipi Lokal ID", Bali TV
+https://vcdnjt.useetv.com/joss/14/balitv/chunklist_w1320846308_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_beritasatu_small1.png" group-title="BKZ Tipi Lokal ID", Berita Satu
+https://vcdnjt.useetv.com/joss/14/beritasatu/chunklist_w1698599514_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jaktv_small1.png" group-title="BKZ Tipi Lokal ID", JakTV
+https://vcdnjt.useetv.com/joss/14/jaktv/chunklist_w250116555_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_jtv_small1.png" group-title="BKZ Tipi Lokal ID", JTV
+https://vcdnjt.useetv.com/joss/14/jtv/chunklist_w239195797_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mytv_small.png" group-title="BKZ Tipi Lokal ID", MyTV
+https://vcdnjt.useetv.com/joss/14/mytv/chunklist_w2010514214_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvedukasi_small1.png" group-title="BKZ Tipi Lokal ID", TV Edukasi
+https://vcdnjt.useetv.com/joss/14/tvedukasi/chunklist_w1743259645_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvri_small1.png" group-title="BKZ Tipi Lokal ID", TVRI
+https://vcdnjt.useetv.com/joss/15/tvri/chunklist_w889807149_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_daaitv_small1.png" group-title="BKZ Tipi Lokal ID", Daai TV
+https://vcdnjt.useetv.com/joss/14/daaitv/chunklist_w500477113_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_insert_small1.png" group-title="BKZ Tipi Lokal ID", Insert 
+https://vcdnjt.useetv.com/joss/14/insert/chunklist_w1585460460_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pelangi_small1.png" group-title="BKZ Tipi Lokal ID", Pelangi
+https://vcdnjt.useetv.com/joss/14/pelangi/chunklist_w1262240118_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_idx_small.png" group-title="BKZ Tipi Lokal ID", IDX
+https://vcdnjt.useetv.com/joss/14/idx/chunklist_w972064553_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dwtv_small.png" group-title="BKZ Tipi News", DW (English)
+https://vcdnjt.useetv.com/joss/14/dwtv/chunklist_w2006561209_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_france24_small.png" group-title="BKZ Tipi News", France 24
+https://vcdnjt.useetv.com/joss/14/france24/chunklist_w120329361_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_newsasia_small.png" group-title="BKZ Tipi News", News Asia
+https://vcdnjt.useetv.com/joss/14/newsasia/chunklist_w493288731_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aljazeera_small1.png" group-title="BKZ Tipi News", Aljazeera
+https://vcdnjt.useetv.com/joss/14/aljazeera/chunklist_w227347544_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="BKZ Tipi News", CNN Indonesia
+https://vcdnjt.useetv.com/joss/15/cnnindonesia/chunklist_w1536621619_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cnnindonesia_small1.png" group-title="BKZ Tipi News", CNN International
+https://vcdnjt.useetv.com/joss/15/cnninternational/chunklist_w177401322_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bloomberg_small1.png" group-title="BKZ Tipi News", Bloomberg
+https://vcdnjt.useetv.com/joss/14/bloomberg/chunklist_w1837076559_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_euronews_small1.png" group-title="BKZ Tipi News", Euronews
+https://vcdnjt.useetv.com/joss/14/euronews/chunklist_w1859559521_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_imc_small.png" group-title="BKZ Tipi Movies", IMC
+https://vcdnjt.useetv.com/joss/14/imc/chunklist_w2092019139_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_celestialmovie_small.png" group-title="BKZ Tipi Movies", Celestial Movie
+https://vcdnjt.useetv.com/joss/14/celestialmovie/chunklist_w365641743_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cinemaworld_small.png" group-title="BKZ Tipi Movies", Cinema World
+https://vcdnjt.useetv.com/joss/14/cinemaworld/chunklist_w1838290029_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_bioskopindonesia_small1.png" group-title="BKZ Tipi Movies", Bioskop Indonesia
+https://vcdnjt.useetv.com/joss/14/bioskopindonesia/chunklist_w2112845721_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_flik_small1.png" group-title="BKZ Tipi Movies", Flik
+https://vcdnjt.useetv.com/joss/15/flik/chunklist_w593810918_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_galaxy_small1.png" group-title="BKZ Tipi Movies", Galaxy
+https://vcdnjt.useetv.com/joss/15/galaxy/chunklist_w973646744_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_thrill_small.png" group-title="BKZ Tipi Movies", Thrill
+https://vcdnjt.useetv.com/joss/14/thrill/chunklist_w1730666294_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_zbioskop_small1.png" group-title="BKZ Tipi Movies", ZBioskop 
+https://vcdnjt.useetv.com/joss/14/zbioskop/chunklist_w686637231_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_ikonser_small.png" group-title="BKZ Tipi Music", I-Konser
+https://vcdnjt.useetv.com/joss/14/ikonser/chunklist_w17916667_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_allegro_small1.png" group-title="BKZ Tipi Music", T Music
+https://vcdnjt.useetv.com/joss/14/tmusic/chunklist_w116458212_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtvlive_small.png" group-title="BKZ Tipi Music", MTV Live
+https://vcdnjt.useetv.com/joss/15/mtvlive/chunklist_w732690506_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradangdut_small.png" group-title="BKZ Tipi Music", Citra Dangdut
+https://vcdnjt.useetv.com/joss/14/citradangdut/chunklist_w169571822_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_pramborstv_small1.png" group-title="BKZ Tipi Music", Prambors
+https://vcdnjt.useetv.com/joss/14/pramborstv/chunklist_w306059173_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_babyfirst_small.png" group-title="BKZ Tipi Kidos", Baby First
+https://vcdnjt.useetv.com/joss/14/babyfirst/chunklist_w496510834_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duck_small1.png" group-title="BKZ Tipi Kidos", Duck TV
+https://vcdnjt.useetv.com/joss/14/ducktv/chunklist_w225994595_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_horee_small.png" group-title="BKZ Tipi Kidos", Horee
+https://vcdnjt.useetv.com/joss/14/horee/chunklist_w1401653121_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_boomerang_small.png" group-title="BKZ Tipi Kidos", Boomerang
+https://vcdnjt.useetv.com/joss/14/boomerang/chunklist_w592627067_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cartoonnetwork_small.png" group-title="BKZ Tipi Kidos", Cartoon Network
+https://vcdnjt.useetv.com/joss/14/cartoonnetwork/chunklist_w1624464288_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_duniaanak_small1.png" group-title="BKZ Tipi Kidos", Dunia anak
+https://vcdnjt.useetv.com/joss/14/duniaanak/chunklist_w1129591585_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickjr_small.png" group-title="BKZ Tipi Kidos", Nick Junior
+https://vcdnjt.useetv.com/joss/14/nickjr/chunklist_w680555737_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nickelodeon_small.png" group-title="BKZ Tipi Kidos", Nickelodeon
+https://vcdnjt.useetv.com/joss/14/nickelodeon/chunklist_w1029482086_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_davinci_small1.png" group-title="BKZ Tipi Kidos", Da Vinci Learning
+https://vcdnjt.useetv.com/joss/14/davinci/chunklist_w43638593_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dreamworks_small1.png" group-title="BKZ Tipi Kidos", Dreamworks
+https://vcdnjt.useetv.com/joss/15/dreamworks/chunklist_w893716912_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_spacetoonplus_small1.png" group-title="BKZ Tipi Kidos", Spacetoon Plus 
+https://vcdnjt.useetv.com/joss/14/spacetoonplus/chunklist_w830494273_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeo_small.png" group-title="BKZ Tipi Pengetahuan", Nat Geo
+https://vcdnjt.useetv.com/joss/15/natgeo/chunklist_w227521165_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeopeople_small.png" group-title="BKZ Tipi Pengetahuan", Nat Geo People
+https://vcdnjt.useetv.com/joss/15/natgeopeople/chunklist_w1188865170_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_natgeowild_small.png" group-title="BKZ Tipi Pengetahuan", Nat Geo Wild
+https://vcdnjt.useetv.com/joss/15/natgeowild/chunklist_w1718971960_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_discovery_small.png" group-title="BKZ Tipi Pengetahuan", Discovery Channel 
+https://vcdnjt.useetv.com/joss/15/disco/chunklist_w1238051972_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_crimeinvestigation_small.png" group-title="BKZ Tipi Pengetahuan", Crime Investigation
+https://vcdnjt.useetv.com/joss/15/crimeinvestigation/chunklist_w1874304811_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cgtndocumentary_small1.png" group-title="BKZ Tipi Pengetahuan", CGTN Documentary
+https://vcdnjt.useetv.com/joss/14/cgtndocumentary/chunklist_w677012204_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mshop_small.png" group-title="BKZ Tipi Entertainment", M Shop
+https://vcdnjt.useetv.com/joss/14/mncshop/chunklist_w809049116_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eatgo_small1.png" group-title="BKZ Tipi Entertainment", Eat & Go
+https://vcdnjt.useetv.com/joss/14/eatgo/chunklist_w179531464_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashionone_small1.png" group-title="BKZ Tipi Entertainment", Fashion One
+https://vcdnjt.useetv.com/joss/15/fashionone/chunklist_w2019972455_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_fashiontv_small1.png" group-title="BKZ Tipi Entertainment", FashionTV
+https://vcdnjt.useetv.com/joss/15/fashiontv/chunklist_w1367753527_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_afc_small.png" group-title="BKZ Tipi Entertainment", Asian Food Network
+https://vcdnjt.useetv.com/joss/15/afc/chunklist_w913980777_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_citradrama_small.png" group-title="BKZ Tipi Movies", Citra Drama
+https://vcdnjt.useetv.com/joss/14/cdrama/chunklist_w1005436759_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_dunialain_small.png" group-title="BKZ Tipi Movies", Dunia Lain
+https://vcdnjt.useetv.com/joss/14/dunialain/chunklist_w1213616347_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_arirang_small.png" group-title="BKZ Tipi Entertainment", Arirang
+https://vcdnjt.useetv.com/joss/14/arirang/chunklist_w1110767028_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_animax_small.png" group-title="BKZ Tipi Kidos", Animax
+https://vcdnjt.useetv.com/joss/14/animax/chunklist_w188540278_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_axn_small.png" group-title="BKZ Tipi Movies", AXN
+https://vcdnjt.useetv.com/joss/15/axn/chunklist_w1404567762_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvn_small.png" group-title="BKZ Tipi Movies", TVN
+https://vcdnjt.useetv.com/joss/15/tvn/chunklist_w1093212915_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvnmoviews_small.png" group-title="BKZ Tipi Movies", TVN Movies
+https://vcdnjt.useetv.com/joss/15/tvnmovies/chunklist_w1320179026_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kbsworld_small.png" group-title="BKZ Tipi Movies", KBS World
+https://vcdnjt.useetv.com/joss/15/kbsworld/chunklist_w1336803909_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueant_small.png" group-title="BKZ Tipi Movies", Blue Ant Ent
+https://vcdnjt.useetv.com/joss/14/blueant/chunklist_w1056092234_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_blueantext_small.png" group-title="BKZ Tipi Movies", Blue Ant Extreme
+https://vcdnjt.useetv.com/joss/14/blueantextreme/chunklist_w1399588050_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_abcaustralia_small.png" group-title="BKZ Tipi News", ABC Australia
+https://vcdnjt.useetv.com/joss/15/abcaustralia/chunklist_w140716921_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworldpremium_small.png" group-title="BKZ Tipi News", NHK World Premium
+https://vcdnjt.useetv.com/joss/15/nhkpremium/chunklist_w1749268327_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_chinesedrama_small.png" group-title="BKZ Tipi Entertainment", Chinese Drama
+https://vcdnjt.useetv.com/joss/14/chinesedrama/chunklist_w1569722609_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_lifetime_small.png" group-title="BKZ Tipi Entertainment", Lifetime
+https://vcdnjt.useetv.com/joss/14/lifetime/chunklist_w923502393_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_hiindo_small1.png" group-title="BKZ Tipi Entertainment", Hi Indo
+https://vcdnjt.useetv.com/joss/14/hiindo/chunklist_w1498045714_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_history_small.png" group-title="BKZ Tipi Entertainment", History
+https://vcdnjt.useetv.com/joss/15/history/chunklist_w428994092_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kix_small.png" group-title="BKZ Tipi Movies", Kix
+https://vcdnjt.useetv.com/joss/15/kix/chunklist_w1402793743_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_wakuwaku_small.png" group-title="BKZ Tipi Movies", Waku Waku Japan
+https://vcdnjt.useetv.com/joss/15/wakuwaku/chunklist_w1651263259_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_warner_small.png" group-title="BKZ Tipi Movies", Warner
+https://vcdnjt.useetv.com/joss/15/warner/chunklist_w1645121686_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_aniplus_small1.png" group-title="BKZ Tipi Kidos", ANIPlus
+https://vcdnjt.useetv.com/joss/14/aniplus/chunklist_w1866353059_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_cctv4_small1.png" group-title="BKZ Tipi Entertainment", CCTV4
+https://vcdnjt.useetv.com/joss/14/cctv4/chunklist_w153917658_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_kplus_small1.png" group-title="BKZ Tipi Entertainment", Kplus
+https://vcdnjt.useetv.com/joss/15/kplus/chunklist_w1347495050_b1344100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_nhkworld_small.png" group-title="BKZ Tipi Entertainment", nhk world Japan
+https://vcdnjt.useetv.com/joss/14/nhkworld/chunklist_w597638886_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sgem_small1.png" group-title="BKZ Tipi Entertainment", SGEM
+https://vcdnjt.useetv.com/joss/15/sgem/chunklist_w1889966787_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_sone_small1.png" group-title="BKZ Tipi Entertainment", SONE 
+https://vcdnjt.useetv.com/joss/15/sone/chunklist_w1987266509_b894100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv5monde_small1.png" group-title="BKZ Tipi Entertainment", TV5Monde
+https://vcdnjt.useetv.com/joss/14/tv5monde/chunklist_w1649201466_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_eljhon_small.png" group-title="BKZ Tipi Entertainment", El John TV
+https://vcdnjt.useetv.com/joss/14/eljohn/chunklist_w458760236_b844100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tvmui_small.png" group-title="BKZ Tipi Religi", MUI TV
+https://vcdnjt.useetv.com/joss/14/muitv/chunklist_w21155252_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tv9_small.png" group-title="BKZ Tipi Religi", TV9 NU
+https://vcdnjt.useetv.com/joss/14/tv9/chunklist_w1731185043_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_uchannel_small1.png" group-title="BKZ Tipi Religi", UChannel
+https://vcdnjt.useetv.com/joss/14/uchannel/chunklist_w625980385_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_alquran_small1.png" group-title="BKZ Tipi Religi", AlQuran Kareem
+https://vcdnjt.useetv.com/joss/14/alquran/chunklist_w95197851_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_tawaftv_small.png" group-title="BKZ Tipi Religi", Tawaf TV
+https://vcdnjt.useetv.com/joss/14/tawaftv/chunklist_w1289428544_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_khazanah_small1.png" group-title="BKZ Tipi Religi", Khazanah
+https://vcdnjt.useetv.com/joss/14/khazanah/chunklist_w272166808_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mqtv_small1.png" group-title="BKZ Tipi Religi", MQTV 
+https://vcdnjt.useetv.com/joss/14/mqtv/chunklist_w241061752_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_mtatv_small1.png" group-title="BKZ Tipi Religi", MTATV 
+https://vcdnjt.useetv.com/joss/14/mtatv/chunklist_w7340863_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_muhammadiyahtv_small1.png" group-title="BKZ Tipi Religi", Muhammadiyah TV
+https://vcdnjt.useetv.com/joss/14/muhammadiyahtv/chunklist_w209786336_b684100_sleng.m3u8
+#EXTINF:-1 tvg-logo="https://www.useetv.com/assets/images/channel/logo_rodjatv_small1.png" group-title="BKZ Tipi Religi", Rodja TV 
+https://vcdnjt.useetv.com/joss/14/rodjatv/chunklist_w830829982_b684100_sleng.m3u8
 
 ====================================  Lokal dAERAH ====================================
 
@@ -1182,8 +1398,6 @@ http://host4.dynns.com/stream/8d45473ff4ca44d79e1abc4516c2fee0.m3u8
 http://host4.dynns.com/stream/ebce2f5139c54eda8b111e5923af9c9e.m3u8
 #EXTINF:-1 group-title="Cadangan BKZ & IC",MTV China
 http://host4.dynns.com/stream/deb56e700dbc4d9ea5af08e9d300a675.m3u8
-#EXTINF:-1 group-title="Cadangan BKZ & IC",CCTV-4
-http://host4.dynns.com/stream/5289381709e64f8db14a4ed75ab2b59f.m3u8
 #EXTINF:-1 group-title="Cadangan BKZ & IC",Star Chinese Channel (scc)
 http://host4.dynns.com/stream/29a09591a6604ff3b798cd7ef809e4bd.m3u8
 #EXTINF:-1 group-title="Cadangan BKZ & IC",Star Chinese Movies Legend (SCM Legend)
@@ -1220,9 +1434,9 @@ http://host4.dynns.com/stream/b254601a75724ad79e2633f3d307e331.m3u8
 http://host4.dynns.com/stream/443ea6ef1768462aaffdff38ce2a4355.m3u8
 #EXTINF:-1 group-title="Cadangan BKZ & IC",ETV
 http://host4.dynns.com/stream/dbab2fe24ce643689045d3c81e1954d6.m3u8
-#EXTINF:-1 group-title="Cadangan BKZ & IC",Animal Planet
+#EXTINF:-1 group-title="BKZ Tipi Pengetahuan",Animal Planet
 http://203.153.218.28:9981/stream/channelid/1943600623?ticket=694FA36A0D756D8572C705243A10521FAF796351&profile=pass
-#EXTINF:-1 group-title="Cadangan BKZ & IC",Asian Food Channel
+#EXTINF:-1 group-title="BKZ Tipi Pengetahuan",Asian Food Channel
 http://203.153.218.28:9981/stream/channelid/1092664456?ticket=E20984982529618B739BCAB7412D568D65147A93&profile=pass
 #EXTINF:-1 group-title="Cadangan BKZ & IC",BBC World News
 http://203.153.218.28:9981/stream/channelid/861591723?ticket=F0599E847F90B5FE81ADFE5AD5296885A461DA19&profile=pass
@@ -1234,13 +1448,13 @@ http://203.153.218.28:9981/stream/channelid/251475608?ticket=5B6244F9555D96BA8A9
 http://203.153.218.28:9981/stream/channelid/648970596?ticket=72A19F89119921817ADF08AEBFF2D7E0009D1A20&profile=pass
 #EXTINF:-1 group-title="Cadangan BKZ & IC",Disney Channel
 http://203.153.218.28:9981/stream/channelid/31701170?ticket=02DB3A3E44B8E741CC4D2913B2F42F452A2C3AB9&profile=pass
-#EXTINF:-1 group-title="Cadangan BKZ & IC",NatGeo Wild 2
+#EXTINF:-1 group-title="BKZ Tipi Pengetahuan",NatGeo Wild 2
 http://203.153.218.28:9981/stream/channelid/1497533758?ticket=A1217AFD7D4BACB9F66B9B369E8BC5B02FB0CEE4&profile=pass
-#EXTINF:-1 group-title="Cadangan BKZ & IC",National Geographic
+#EXTINF:-1 group-title="BKZ Tipi Pengetahuan",National Geographic
 http://203.153.218.28:9981/stream/channelid/681683355?ticket=B3C34399E8376048D3433529578519E51673EA32&profile=pass
-#EXTINF:-1 group-title="Cadangan BKZ & IC",Discovery ID
+#EXTINF:-1 group-title="BKZ Tipi Pengetahuan",Discovery ID
 http://203.153.218.28:9981/stream/channelid/1151931232?ticket=078500147F811BFE771335FA49291072620A412D&profile=pass
-#EXTINF:-1 group-title="Cadangan BKZ & IC",NATGEO PEOPLE
+#EXTINF:-1 group-title="BKZ Tipi Pengetahuan",NATGEO PEOPLE
 http://203.153.218.28:9981/stream/channelid/1114683377?ticket=67D9F2B0E165753DAD1C094DE6F1AAC530B98C0D&profile=pass
 #EXTINF:-1 group-title="Cadangan BKZ & IC",TVRI - LOCAL
 http://202.80.222.130/000001/2/ch14041511560872104862/index.m3u8?virtualDomain=000001.live_hls.zte.com
@@ -1438,10 +1652,6 @@ http://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master.m3u8
 http://d3inlz9elsutjl.cloudfront.net/hls/chuctv/master.m3u8
 #EXTINF:-1 group-title="Asean BKC&IC",OKTO HD
 http://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master.m3u8
-#EXTINF:-1 group-title="Asean BKC&IC",TV IKIM
-http://edge.vediostream.com/abr/tvikim/playlist.m3u8
-#EXTINF:-1 group-title="Asean BKC&IC",Astro Awani
-http://bcsecurelivehls-i.akamaihd.net/hls/live/722763/4508222217001/stream04/streamPlaylist.m3u8
 #EXTINF:-1 group-title="Asean BKC&IC",MBC BOLLYWOOD
 http://livecdnh2.tvanywhere.ae/hls/mbc_bolly/04.m3u8
 #EXTINF:-1 group-title="Asean BKC&IC",B4U PLUS
@@ -1578,8 +1788,6 @@ http://livecdnh3.tvanywhere.ae/hls/mbcaction/05.m3u8
 http://vod.linknetott.swiftcontent.com/Content/HLS/Live/Channel(ch31)/02.m3u8
 #EXTINF:-1 group-title="Freemium backup BKC&IC",ARIRANG
 http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Freemium backup BKC&IC",Arirang
-http://amdlive.ctnd.com.edgesuite.net:80/arirang_1ch/smil:arirang_1ch.smil/chunklist.m3u8
 #EXTINF:-1 group-title="Freemium asia BKC&IC",Arirang Korea
 http://amdlive.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
 #EXTINF:-1 group-title="Freemium news BKC&IC",ASTV News 1
@@ -1588,8 +1796,6 @@ http://news1.live14.com/stream/news1_hi.m3u8
 http://bfmlyon-lh.akamaihd.net/i/BFMLYON_KBS@797041/index_2008_av-p.m3u8
 #EXTINF:-1 group-title="Freemium euro BKC&IC",BFM Paris
 http://bfmparishdslive-lh.akamaihd.net/i/BFMPARIS_KB@429747/index_1236_av-p.m3u8
-#EXTINF:-1 group-title="Freemium news BKC&IC",BLOOMBERG
-http://cdn-videos.akamaized.net/btv/desktop/akamai/europe/live/primary.m3u8
 #EXTINF:-1 group-title="Freemium BKC&IC",Box Hits
 http://csm-e.tm.yospace.com/csm/extlive/boxplus01,boxhits-desktop.m3u8?yo.up=http%3a%2f%2fboxtv-origin-elb.cds1.yospace.com%2fuploads%2fboxhits%2f
 #EXTINF:-1 group-title="Freemium news BKC&IC",BTV NEWS
@@ -1636,11 +1842,11 @@ http://fash1043.cloudycdn.services/slive/ftv_pg13_adaptive.smil/chunklist.m3u8?F
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_midnite_secrets_adaptive.smil/chunklist.m3u8?Fashion-TV-Midnight
 #EXTINF:-1 group-title="Freemium BKC&IC",Fashion TV Paris
 http://fash1043.cloudycdn.services/slive/_definst_/ftv_paris_adaptive.smil/chunklist.m3u8
-#EXTINF:-1 group-title="Freemium pengetahuan BKC&IC",Fine Living
+#EXTINF:-1 group-title="BKZ Tipi Entertainment",Fine Living
 http://70.32.0.9:5000/live/543/playlist.m3u8
-#EXTINF:-1 group-title="Freemium pengetahuan BKC&IC",Food My Recipes
+#EXTINF:-1 group-title="BKZ Tipi Entertainment",Food My Recipes
 https://livetvhooq.akamaized.net/d7236670539144e0a5df0b8fa7a0c5c1/ap-southeast-1/5493668622001/profile_0/chunklist.m3u8?hdnts=st=1570264475~exp=9007200825005466~acl=/d7236670539144e0a5df0b8fa7a0c5c1/*/profile_0/chunklist.m3u8*~hmac=113d2c8fce5c53bb675720b941b70c7a1bee5a01529d4041868efa3372a0c045
-#EXTINF:-1 group-title="Freemium pengetahuan BKC&IC",Food Network
+#EXTINF:-1 group-title="BKZ Tipi Entertainment",Food Network
 http://95.86.32.7:999/food
 #EXTINF:-1 group-title="Freemium backup BKC&IC",FOX ACTION MOVIES
 http://iliketot.dyndns.tv/6744e98748214c32912a46d1c7277d55.m3u8?&wmsAuthSign=c2VydmVyX3RpbWU9MTAvMjIvMjAxNyAxOjM2OjExIEFNJmhhc2hfdmFsdWU9T1lvZDZ5TjFaWk53M3J4OWZOTWtFUT09JnZhbGlkbWludXRlcz0yJmlkPW1jZ2x5bWFyfDc2MXxpcHR2aGVyb3wxNTA4NjM2MTcxfDIyMy4yMDUuMTIyLjE2Nw
@@ -1670,7 +1876,7 @@ http://161.0.157.5/PLTV/88888888/224/3221227026/03.m3u8
 http://95.67.47.115/hls/hdfashion_ua_hi/index.m3u8?xtreamiptv.m3u8?HD-Fashion
 #EXTINF:-1 group-title="Freemium BKC&IC",HISTORY CHANNEL
 http://livecdnh1.tvanywhere.ae/hls/h2/index.m3u8
-#EXTINF:-1 group-title="Freemium pengetahuan BKC&IC",HOME & LIVING
+#EXTINF:-1 group-title="BKZ Tipi Entertainment",HOME & LIVING
 http://edge.linknetott.swiftserve.com/live/BSgroup/amlst:homelivinghd/playlist.m3u8
 #EXTINF:-1 group-title="Freemium BKC&IC",INQUIRER TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3u8
@@ -1678,7 +1884,7 @@ https://d3cbe0gidjd4k2.cloudfront.net/channel_7/channel7/chunklist_w842017402.m3
 http://202.80.222.175/000001/2/ch14041511505498448705/index.m3u8?virtualDomain=000001.live_hls.zte.com
 #EXTINF:-1 group-title="Freemium korea BKC&IC",KBS World
 http://edge.linknetott.swiftserve.com/channelgroup5/cg542production/ch262/03.m3u8
-#EXTINF:-1 group-title="Freemium BKC&IC",LIFE TV
+#EXTINF:-1 group-title="BKZ Tipi Entertainment",LIFE TV
 https://d3cbe0gidjd4k2.cloudfront.net/channel_6/channel6/chunklist_w1653262029.m3u8
 #EXTINF:-1 group-title="Freemium BKC&IC",M Channel
 http://www.m-channel.com:1935/live/my_stream.sdp/playlist.m3u8
@@ -1702,8 +1908,6 @@ https://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
 http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
 #EXTINF:-1 group-title="Freemium asia BKC&IC",NEXT TV HD
 http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-#EXTINF:-1 group-title="Freemium asia BKC&IC",OKTO
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
 #EXTINF:-1 group-title="Freemium asia BKC&IC",ONE 31
 http://183.182.100.184/live/onehd/chunklist.m3u8
 #EXTINF:-1 group-title="Freemium asia BKC&IC",ONE HD
@@ -1738,12 +1942,6 @@ http://111.40.205.87/PLTV/88888888/224/3221225645/index.m3u8
 https://d3cbe0gidjd4k2.cloudfront.net/channel_1/channel1/chunklist_w743726554.m3u8
 #EXTINF:-1 group-title="Freemium news BKC&IC",Sky News
 http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 group-title="Freemium news BKC&IC",Sky News Extra 1
-https://skynewsau-live.akamaized.net/hls/live/2002689/skynewsau-extra1/master.m3u8
-#EXTINF:-1 group-title="Freemium news BKC&IC",Sky News Extra 2
-https://skynewsau-live.akamaized.net/hls/live/2002690/skynewsau-extra2/master.m3u8
-#EXTINF:-1 group-title="Freemium news BKC&IC",Sky News Extra 3
-https://skynewsau-live.akamaized.net/hls/live/2002691/skynewsau-extra3/master.m3u8
 #EXTINF:-1 group-title="Freemium BKC&IC",Star Movies HD
 http://livecdnh1.tvanywhere.ae:80/hls/star_movies/05.m3u8
 #EXTINF:-1 group-title="Freemium korea BKC&IC",TMZ
@@ -1754,11 +1952,9 @@ http://183.182.100.184/live/true4u/chunklist.m3u8
 http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
 #EXTINF:-1 group-title="Freemium BKC&IC",UNTV
 https://untv.mmdlive.lldns.net/untv/97cc8d2c46bd43b78e0b112761ab71fe/chunklist_b1128000.m3u8
-#EXTINF:-1 group-title="Freemium BKC&IC",VASANTHAM
-http://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
 #EXTINF:-1 group-title="Freemium BKC&IC",White Channel
 http://symc-cdn.violin.co.th:1935/tndedge/whitechannel/chunklist.m3u8
-#EXTINF:-1 group-title="Freemium korea BKC&IC",YTN Science
+#EXTINF:-1 group-title="BKZ Tipi Entertainment",YTN Science
 http://slive.sciencetv.kr:1935/science/yslive_20140419_1/playlist.m3u8
 #EXTINF:-1 group-title="Freemium BKC&IC",Zhejiang TV
 http://111.40.205.87/PLTV/88888888/224/3221225643/index.m3u8
@@ -1802,23 +1998,17 @@ http://203.162.235.41:16915
 http://203.162.235.41:16912
 #EXTINF:-1 group-title="Freemium II BKC&IC",MBS HD (Japão)
 http://203.162.235.41:16907
-#EXTINF:-1 group-title="Freemium II BKC&IC",Arirang
-http://amdlive-ch01.ctnd.com.edgesuite.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
-#EXTINF:-1 group-title="Freemium II BKC&IC",Bloomberg
-https://liveproduseast.akamaized.net/us/Channel-USTV-AWS-virginia-1/Source-USTV-1000-1_live.m3u8
-#EXTINF:-1 group-title="Freemium II BKC&IC",Sky News HD (Alt)
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 group-title="Freemium II BKC&IC",National Geo HD (EUA)
+#EXTINF:-1 group-title="BKZ Tipi Pengetahuan,National Geo HD (EUA)
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo/05.m3u8
-#EXTINF:-1 group-title="Freemium II BKC&IC",National Geo Wild HD (EUA)
+#EXTINF:-1 group-title="BKZ Tipi Pengetahuan",National Geo Wild HD (EUA)
 http://livecdnh1.tvanywhere.ae/hls/nat_geo_wild/05.m3u8
-#EXTINF:-1 group-title="Freemium II BKC&IC",National Geo People HD (EUA)
+#EXTINF:-1 group-title="BKZ Tipi Pengetahuan",National Geo People HD (EUA)
 http://livecdnh1.tvanywhere.ae:80/hls/nat_geo_people/05.m3u8
 #EXTINF:-1 group-title="Freemium II BKC&IC",The Weather Channel HD
 http://weather-lh.akamaihd.net/i/twc_1@92006/master.m3u8
 #EXTINF:-1 group-title="Freemium II BKC&IC",MTV OMG Internacional HD
 http://unilivemtveu-lh.akamaihd.net/i/mtvno_1@346424/master.m3u8
-#EXTINF:-1 group-title="Freemium II BKC&IC",Food Network
+#EXTINF:-1 group-title="BKZ Tipi Pengetahuan",Food Network
 http://95.86.32.7:999/food
 
 
@@ -4606,7 +4796,7 @@ http://uni5rtmp.tulix.tv/lifevision/lifevision.stream/playlist.m3u8
 https://ottmanifest.weathergroup.com/live/10.233.185.101:58081/api/v1/live/hls/localnow/index.m3u8?network=OTT&experienceid=paPhiladelphia&seid=532865b2-796b-497d-abb2-56df16f62f32&showlocalnow=false&cdn=https%3a//ottcdn-a.akamaihd.net&sessionId=LocalNowWeb_bW9jLm9vYWNiQDM4NzkwZXd0&format=HLS&tpp=10443
 #EXTINF:-1 group-title="US BKZ&IC",LoveWorld USA
 https://loveworldusa-lh.akamaihd.net/i/lwusa2_1@514985/master.m3u8
-#EXTINF:-1 group-title="Local",MCN6
+#EXTINF:-1 group-title="US BKZ&IC",MCN6
 http://live.mcn6.org:8180/live/CELL-496k-270p/CELL-496k-270p.m3u8
 #EXTINF:-1 group-title="US BKZ&IC",Miami TV
 https://59ec5453559f0.streamlock.net/miamitv/smil:miamitvROKU/chunklist_w1195980091_b2592000.m3u8
@@ -5090,359 +5280,8 @@ http://51.158.73.206/hls/stream.m3u8
 #EXTINF:-1 group-title="UEA BKC&IC",Wanasah
 http://livecdnh2.tvanywhere.ae/hls/wanasah/04.m3u8
 
-==================================== Hk====================================
-
-
-#EXTINF:-1 group-title="Tw-Hk",NTD TV
-https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",SET News
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 group-title="Tw-Hk",TVBS News
-http://60.199.188.65/HLS/WG_TVBS-N/02.m3u8
-#EXTINF:-1 group-title="Tw-Hk",信吉电视
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 group-title="Tw-Hk",原住民族電視
-https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/5817780548001/profile_0/chunklist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",唯心电视台wxtv
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="Tw-Hk",奇妙电视
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="Tw-Hk",番薯 TV
-http://210.209.3.1/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin
-#EXTINF:-1 group-title="Tw-Hk",BabyFirst亲子台
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",Boomerang卡通台
-http://3ea2ac02.ulkakak.pw/iptv/UAVTALUW886L8G/723/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",Channel 8
-http://usa.login.in.th:1935/ch8/ch8/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",HK開電視 (備)
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="Tw-Hk",NHK华语视界(工作日1300-1400 1700-1900)
-https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/zh/725580/live_zh.m3u8
-#EXTINF:-1 group-title="Tw-Hk",TVBS新聞
-http://60.199.188.65/HLS/WG_TVBS-N/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",TVB翡翠台
-http://m.567it.com/jade.m3u8
-#EXTINF:-1 group-title="Tw-Hk",TVB翡翠台2
-http://m.567it.com/jade.m3u8
-#EXTINF:-1 group-title="Tw-Hk",TVB翡翠台HD
-http://m.567it.com/jade.m3u8
-#EXTINF:-1 group-title="Tw-Hk",RHK-31電視台
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_1296_av-b.m3u8
-#EXTINF:-1 group-title="Tw-Hk",RHK-31電視台 (備)
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-#EXTINF:-1 group-title="Tw-Hk",明珠HD
-http://ttzx.tv/hls/prarl.m3u8
-#EXTINF:-1 group-title="Tw-Hk",翡翠HD
-http://ttzx.tv/hls/jade.m3u8
-#EXTINF:-1 group-title="Tw-Hk",翡翠台
-http://116.199.5.51:8114/00000000/2e368e04c76446bc9d30ca7a9f934dae/index.m3u8?Fsv_cid=1034&Fsv_chan_hls_se_idx=188&Fsv_ctype=LIVES&version=9&Fsv_rate_id=1&Fsv_otype=1&FvSeid=5abd1660af1babb4&Pcontent_id=7f88be5fb6fd426494f6aa240f1dc7a9&Provider_id=00000000&Fsv_filetype=1&Fsv_ShiftEnable=0&Fsv_SV_PARAM1=0&Fsv_ShiftTsp=240&Fsv_CMSID=00000000&AuthInfo=P2ZSH2gNMZ8aiVfV%2BjCYczoGsAYoDo4KY5I3eHfJhGTKdSzgLwCHoSet9it9fXrMLwehJxh9gmO%2F%0AOFrWyxI%2BtteLTJnZKT7Lg8BRYQNXMQU%3D%0A
-#EXTINF:-1 group-title="Tw-Hk",港台电视RTHK31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-p.m3u8
-#EXTINF:-1 group-title="Tw-Hk",港台电视RTHK31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/master.m3u8
-#EXTINF:-1 group-title="Tw-Hk",港台电视RTHK31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-#EXTINF:-1 group-title="Tw-Hk",港台电视RTHK31
-http://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_2052_av-p.m3u8
-#EXTINF:-1 group-title="Tw-Hk",港台电视RTHK31
-https://www.rthk.hk/feeds/dtt/rthktv31_https.m3u8
-#EXTINF:-1 group-title="Tw-Hk",港台电视RTHK31
-https://rthklive1-lh.akamaihd.net/i/rthk31_1@167495/index_810_av-b.m3u8
-#EXTINF:-1 group-title="Tw-Hk",港台电视RTHK32
-https://rthklive2-lh.akamaihd.net/i/rthk32_1@168450/master.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港佛陀教育协会(大陆线路)
-http://js1.amtb.cn/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港佛陀教育协会(欧美线路)
-http://de1.amtb.de/liveedge/_definst_/livetv/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港创世电视480P
-http://ax.micaesoft.com/YMitv/YMITV_CN_eratv.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港创世电视720P
-https://cdn.deepcore.online/hlsme/ctv_hk_720.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港创世电视1080P
-https://cdn.deepcore.online/hlsme/ctv_hk_1080.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港卫视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港开电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港开电视HD
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港開电视
-http://media.fantv.hk/m3u8/archive/channel2.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港開电视
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港開電視
-http://media.fantv.hk/m3u8/archive/channel2_stream1.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港映嘉娱乐MiaoMiTV
-http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港映嘉娱乐儿童频道
-http://d3kw4vhbdpgtqk.cloudfront.net/hls/miaomipcweb/prog_index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港耀才财經 (備)
-http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",香港耀才财经HD
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",耀才財經台1
-http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",耀才財經台2
-http://202.69.67.66:443/webcast/bshdlive-pc/playlist.m3u8?wowzasessionid=64000
-#EXTINF:-1 group-title="Tw-Hk",耀才财经台
-http://202.69.67.66:443/webcast/bshdlive-mobile/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",耀才财经台
-http://fc_video.bsgroup.com.hk:443/webcast/bshdlive-pc/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",鳳凰中文
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",鳳凰中文
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226922/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",鳳凰資訊
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",鳳凰資訊
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",鳳凰資訊
-http://223.110.245.167/ott.js.chinamobile.com/PLTV/3/224/3221226923/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",鳳凰香港 (備)
-http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳丫卫视，
-http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳丫台湾卫视
-http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳亚卫视
-http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳亚卫视 (備)
-http://stream.mastvnet.com/MASTV/sd/live.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳洲新闻台BloombergAunew
-https://liveprodapnortheast.global.ssl.fastly.net/btv/desktop/ap_live.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳視澳門
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳視衛星
-http://live4.tdm.com.mo/ch3/definst//ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳視衛星 (備)
-http://live4.tdm.com.mo:80/ch3/_definst_//ch3.live/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳视澳门
-http://61.244.22.4/ch1/ch1.live/playelist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳門2
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳門衛星頻道
-http://live4.tdm.com.mo/ch3/ch3.live/chunklist_w1998934325.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳門衛視
-http://stream.mastvnet.com/MSTV/SD/live.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳门
-http://61.244.22.4/ch3/_definst_/ch3.live/chunklist_w248237998.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳门RTP
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳门卫星频道
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳门卫视
-http://stream.mastvnet.com/MSTV/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳门微电影频道
-http://61.244.22.4/ch3/ch3.live/playelist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳门澳亚卫视
-http://stream.mastvnet.com/MASTV/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳门莲花
-http://live-rtmp.lotustv.duolaibo.cn/lotustv/5562e9e4d409d24c9600075c.m3u8
-#EXTINF:-1 group-title="Tw-Hk",澳门葡文
-http://61.244.22.4/ch2/ch2.live/playelist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",生命电视台
-http://211.73.19.201/live/E6290DC0-BE6A-B7C4-79F5-114BDB417F9E.m3u8?fmt=x264_1200K_ts&cpid=admin&size=1280X720
-#EXTINF:-1 group-title="Tw-Hk",番薯电视台
-http://211.73.19.201/live/C02DD98E-593E-47A8-905C-3B101183A555.m3u8?fmt=x264_500K_ts&cpid=admin&size=720X480
-#EXTINF:-1 group-title="Tw-Hk",精品影院CIBN movies live
-http://101.89.132.179/live/tm-yg1jpyy-1200k.m3u8
-#EXTINF:-1 group-title="Tw-Hk",凤凰中文HD
-http://117.169.124.43:6610/ysten-businessmobile/live/fhchinese/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",凤凰卫视中文台
-http://live.centerch.com/fhzw.m3u8
-#EXTINF:-1 group-title="Tw-Hk",凤凰卫视资讯台
-http://live.centerch.com/fhzx.m3u8
-#EXTINF:-1 group-title="Tw-Hk",凤凰卫视香港台
-http://223.110.245.136/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",凤凰卫视香港台
-http://183.207.249.35/PLTV/3/224/3221226975/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",凤凰资讯HD
-http://117.169.124.43:6610/ysten-businessmobile/live/fhzixun/index.m3u8 凤凰中文HD,http://112.50.243.8/PLTV/88888888/224/3221225900/1.m3u8
-#EXTINF:-1 group-title="Tw-Hk",凤凰资讯HD
-http://117.169.120.138:8080/live/fhzixun/.m3u8
-#EXTINF:-1 group-title="Tw-Hk",凤凰香港
-http://223.82.250.72/live/fhchinese/1.m3u8
-#EXTINF:-1 group-title="Tw-Hk",VOA中文
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/index_0540_av-p.m3u8
-#EXTINF:-1 group-title="Tw-Hk",VOA中文
-https://voa-lh.akamaihd.net/i/voa_mpls_tvmc8@326847/master.m3u8
-#EXTINF:-1 group-title="Tw-Hk",三立新聞
-http://60.199.188.65/HLS/WG_ETTV-N/02.m3u8
-#EXTINF:-1 group-title="Tw-Hk",上德电视台
-http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/chunklist_w250050579.m3u8
-#EXTINF:-1 group-title="Tw-Hk",上德电视台
-http://flv.ccdntech.com/live/_definst_/mp4:vod150_Live/live/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",人间卫视
-http://54.64.23.79:1935/live/vod/chunklist_w1420404598.m3u8
-#EXTINF:-1 group-title="Tw-Hk",优视频道
-http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",佛卫慈悲台
-http://btsu4k5-hisng.cdn.hinet.net/live/pool/bts-Live1/hievent-hls/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",信吉电视
-http://220.130.241.203:1935/sjtv/livestream_360p/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",信吉电视FHD
-http://220.130.241.203:1935/sjtv/livestream/chunklist_w1048671923.m3u8
-#EXTINF:-1 group-title="Tw-Hk",儒释道网络电视台
-http://amtbsg.cloudapp.net/liveedge/_definst_/cult/chunklist_w856981860.m3u8
-#EXTINF:-1 group-title="Tw-Hk",優視頻道
-http://1-fss24-s0.streamhoster.com/lv_uchannel/_definst_/broadcast1/chunklist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",全美电视台AAT TV
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 group-title="Tw-Hk",净宗学院网络直播
-http://hls.ciguang.tv/hdtv/video.m3u8?auth_key=1557799219-0-0-4c865ccdb89d8eb4cbe54be628c127d9
-#EXTINF:-1 group-title="Tw-Hk",凤台文化生活
-http://60.175.115.119:1935/live/wenhua/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",加拿大中文电视台
-https://wowzaprodhd45-lh.akamaihd.net/i/96d54ef6_1@438617/master.m3u8
-#EXTINF:-1 group-title="Tw-Hk",华藏卫视
-http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",博斯魅力
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-3真情部落格
-http://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-5共享观点
-http://live.streamingfast.net/osmflivech5.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-6亲近神诗歌音乐
-http://live.streamingfast.net/osmflivech6.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-7祷告大军
-http://live.streamingfast.net/osmflivech7.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-9爱+好医生（精华版）
-http://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-10烤箱读书会
-http://live.streamingfast.net/osmflivech10.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-11我们EYE旅行
-http://live.streamingfast.net/osmflivech11.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-12孙叔唱副歌
-http://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-13健康新煮流
-http://live.streamingfast.net/osmflivech13.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-14真情部落格
-http://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-15真情之夜
-http://live.streamingfast.net/osmflivech15.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-16问光明
-http://live.streamingfast.net/osmflivech16.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-17大卫鲍森
-http://live.streamingfast.net/osmflivech17.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-18国际议员
-http://live.streamingfast.net/osmflivech18.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-19共享观点
-http://live.streamingfast.net/osmflivech19.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-20恩典时分
-http://live.streamingfast.net/osmflivech20.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-21华语议员
-http://live.streamingfast.net/osmflivech21.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-23空中主日学（生活）
-http://live.streamingfast.net/osmflivech23.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-25福气人生
-http://live.streamingfast.net/osmflivech25.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-26空中主日学（查经）
-http://live.streamingfast.net/osmflivech26.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-27空中圣经学院
-http://live.streamingfast.net/osmflivech27.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-30天堂敬拜
-http://live.streamingfast.net/osmflivech30.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-31福音布道音乐会
-http://live.streamingfast.net/osmflivech31.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-32祷告与转化
-http://live.streamingfast.net/osmflivech32.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-33研经培灵
-http://live.streamingfast.net/osmflivech33.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-35天国文化.天父的心
-http://live.streamingfast.net/osmflivech35.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-36医治释放
-http://live.streamingfast.net/osmflivech36.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-37以色列专辑
-http://live.streamingfast.net/osmflivech37.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-38末世信息
-http://live.streamingfast.net/osmflivech38.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-39全家妇主有良方
-http://live.streamingfast.net/osmflivech39.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾GOODTV-40家庭8点档转转发现爱
-http://live.streamingfast.net/osmflivech40.m3u8
-#EXTINF:-1 group-title="Tw-Hk",GOOD爱+好医生
-http://live.streamingfast.net/osmflivech9.m3u8
-#EXTINF:-1 group-title="Tw-Hk",GOOD生活台
-http://live.streamingfast.net/osmflivech12.m3u8
-#EXTINF:-1 group-title="Tw-Hk",GOOD真情部落格
-http://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 group-title="Tw-Hk",GOOD综合台
-http://live.streamingfast.net/osmflivech1.m3u8
-#EXTINF:-1 group-title="Tw-Hk",GOOD美食旅游台
-http://live.streamingfast.net/osmflivech14.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾亲子台
-http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾全美台
-http://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾全美電視
-https://dcunilive30-lh.akamaihd.net/i/dclive_1@535522/master.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾华藏电视台
-http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾博斯魅力，
-http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾民視新闻台HD
-http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",台湾民视新闻
-http://210.61.56.23/hls/ftvtv/index.m3u8
-#EXTINF:-1 group-title="Tw-Hk",唯心电视台
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/chunklist_w1177047531.m3u8
-#EXTINF:-1 group-title="Tw-Hk",唯心頻道
-http://mobile.ccdntech.com/transcoder/_definst_/vod164_Live/live/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",多元文化(台湾线路)
-https://tw2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",多元文化(新马线路)
-https://sg1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",多元文化(欧美线路)
-https://de1.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",多元文化(香港线路)
-https://hk2.amtb.de/liveedge/_definst_/cult/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",大冶二套
-http://dayeyun.live.tempsource.cjyun.org/videotmp/s10102-TC2T.m3u8
-#EXTINF:-1 group-title="Tw-Hk",大悟综合
-http://yunshangdawu.live.tempsource.cjyun.org/videotmp/s10129-dwzhpd.m3u8
-#EXTINF:-1 group-title="Tw-Hk",天水公共频道
-http://61.178.129.74:5021/live_hls/3/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",天水新闻综合
-http://61.178.129.74:5021/live_hls/1/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",天空新闻
-http://skydvn-nowtv-atv-prod.skydvn.com/atv/skynews/1404/live/06.m3u8
-#EXTINF:-1 group-title="Tw-Hk",奥多少儿频道
-https://ddftztnzt6o79.cloudfront.net/hls/oktoctv/master02.m3u8
-#EXTINF:-1 group-title="Tw-Hk",孝廉电视台
-http://cdn257.ccdntech.com/live-http/_definst_/vod257_Live/live/chunklist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",希望电视台
-http://bcliveuniv-lh.akamaihd.net/i/Live_1@384161/master.m3u8
-#EXTINF:-1 group-title="Tw-Hk",意大利音乐台
-http://radioitaliatv-lh.akamaihd.net/i/radioitaliatv_1@329645/index_720x480_av-p.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新传媒8
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新传媒8频道
-https://d2ko4czujk9652.cloudfront.net/hls/cnasctv/master02.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新加坡8频道
-https://d34e90s3s13i7n.cloudfront.net/hls/ch8ctv/master02.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新加坡VASANTHAM频道
-https://d39v9xz8f7n8tk.cloudfront.net/hls/vsnthmctv/master02.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新唐人中国台
-https://live2.ntdimg.com/cnlive/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新唐人亚太台
-https://live.ntdimg.com/aplive200/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新唐人加东台
-https://live.ntdimg.com/mllive860/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新唐人加西台
-https://live.ntdimg.com/cwlive220/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新唐人旧金山台
-https://live.ntdimg.com/sflive990/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新唐人美东台
-https://live.ntdimg.com/live400/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新唐人美西台
-https://live.ntdimg.com/uwlive990/playlist.m3u8
-#EXTINF:-1 group-title="Tw-Hk",新唐人美西台
-https://live.ntdimg.com/sflive220/playlist.m3u8
 
 ==================================== CHINESE ====================================
-
-
 #EXTINF:-1 group-title="Chinesse Canal",NHK総合
 http://203.162.235.41:16903
 #EXTINF:-1 group-title="Chinesse Canal",NHK Eテレ
@@ -5989,10 +5828,6 @@ http://61.58.60.230:9319/live/227.m3u8
 http://61.58.60.230:9319/live/233.m3u8
 #EXTINF:-1 group-title="Chinesse Canal",北京国际
 http://61.58.60.230:9319/live/226.m3u8
-#EXTINF:-1 group-title="Chinesse Canal",CCTV 戏曲
-http://61.58.60.230:9319/live/223.m3u8
-#EXTINF:-1 group-title="Chinesse Canal",CCTV 娱乐
-http://61.58.60.230:9319/live/224.m3u8
 #EXTINF:-1 group-title="Chinesse Canal",安徽国际
 http://61.58.60.230:9319/live/237.m3u8
 #EXTINF:-1 group-title="Chinesse Canal",重庆国际
@@ -6033,12 +5868,6 @@ http://61.58.60.230:9319/live/123.m3u8
 http://61.58.60.230:9319/live/124.m3u8
 #EXTINF:-1 group-title="Chinesse Canal",幸福空間居家
 http://61.58.60.230:9319/live/125.m3u8
-#EXTINF:-1 group-title="地方台",湖南都市 (Opt-1)
-http://61.58.60.230:9319/live/231.m3u8
-#EXTINF:-1 group-title="地方台",四川城市之音 CityFM FM102.6
-http://61.58.60.230:9319/live/238.m3u8
-#EXTINF:-1 group-title="广播",香港D100 PBS
-http://68.235.39.19:8000/Channel1-128MP3
 #EXTINF:-1 group-title="演唱会",张碧晨2018极光
 http://acfun.iqiyi-kuyun.com/20181026/s6SFB5gx/index.m3u8
 #EXTINF:-1 group-title="地方台",霍山综合频道
@@ -6057,14 +5886,6 @@ http://app.qatv.cn:1936/live/stream:xwzh.stream_720p/playlist.m3u8
 http://app.qatv.cn:1937/live/stream:shfw.stream_720p/playlist.m3u8
 #EXTINF:-1 group-title="广播",BBC world service
 https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_world_service/bbc_world_service.isml/bbc_world_service-audio=96000.m3u8
-#EXTINF:-1 group-title="广播",BBC radio1-48k
-https://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_radio_one/bbc_radio_one.isml/bbc_radio_one-audio%3d48000.m3u8
-#EXTINF:-1 group-title="广播",CNR经典音乐广播101.8
-http://as-hls-ww-live.akamaized.net/pool_904/live/ww/bbc_1xtra/bbc_1xtra.isml/bbc_1xtra-audio%3d96000.m3u8
-#EXTINF:-1 group-title="广播",马来西亚MY FM音乐台
-http://astro1.rastream.com/myfm
-#EXTINF:-1 group-title="广播",北京动听调频MetroFM94.5
-http://audiolive.rbc.cn:1935/live/fm945/96K/tzwj_video.m3u8
 #EXTINF:-1 group-title="点播",速度与激情：特别行动
 https://baidu.com-ok-baidu.com/20190919/15044_4b0cc804/index.m3u8
 #EXTINF:-1 group-title="Chinesse Canal",希望電視
@@ -6075,10 +5896,6 @@ https://bcovlive-a.akamaihd.net/82be3b97f67745058447484cc8a2d015/ap-southeast-1/
 http://bcsecurelivehls-i.akamaihd.net/hls/live/265320/5043843989001/140130JTDX/index_1200.m3u8
 #EXTINF:-1 group-title="日本",NHK World Japan 1mb
 https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 group-title="日本",NHK World Japan 200kb
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_200k.m3u8
-#EXTINF:-1 group-title="日本",NHK World Japan 600kb
-https://b-nhkwlive-xjp.akamaized.net/hls/live/2003458-b/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:-1 group-title="台港澳",CBS
 http://cbsn-us-cedexis.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
 #EXTINF:-1 group-title="Chinesse Canal",創世電視
@@ -6139,72 +5956,6 @@ http://cdn-yong.bejingyongjiu.com/20200117/1257_26d5bbaf/index.m3u8
 http://cdn-yong.bejingyongjiu.com/20200122/1683_642faf30/index.m3u8
 #EXTINF:-1 group-title="乡村爱情12",乡村爱情12第16集
 http://cdn-yong.bejingyongjiu.com/20200122/1682_37dcd149/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第31集
-http://cdn-yong.bejingyongjiu.com/20200105/240_a61be67f/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第33集
-http://cdn-yong.bejingyongjiu.com/20200106/394_dc735f2e/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第34集
-http://cdn-yong.bejingyongjiu.com/20200106/399_cde01f11/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第35集
-http://cdn-yong.bejingyongjiu.com/20200107/475_5288e59c/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第36集
-http://cdn-yong.bejingyongjiu.com/20200107/482_cf492a49/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第37集
-http://cdn-yong.bejingyongjiu.com/20200108/566_e96a1e74/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第38集
-http://cdn-yong.bejingyongjiu.com/20200108/572_e8446217/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第39集
-http://cdn-yong.bejingyongjiu.com/20200109/653_b643392a/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第40集
-http://cdn-yong.bejingyongjiu.com/20200109/661_543cb79d/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第41集
-http://cdn-yong.bejingyongjiu.com/20200110/725_041a2f95/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第42集
-http://cdn-yong.bejingyongjiu.com/20200110/730_5a5f2c73/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第43集
-http://cdn-yong.bejingyongjiu.com/20200111/809_0984bd7f/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第44集
-http://cdn-yong.bejingyongjiu.com/20200112/865_ca5affc2/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第45集
-http://cdn-yong.bejingyongjiu.com/20200112/870_88e11d80/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第46集
-http://cdn-yong.bejingyongjiu.com/20200113/946_29fe6d25/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第47集
-http://cdn-yong.bejingyongjiu.com/20200113/948_06c5f4f2/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第48集
-http://cdn-yong.bejingyongjiu.com/20200114/1035_69055e68/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第49集
-http://cdn-yong.bejingyongjiu.com/20200114/1039_885030f9/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第50集
-http://cdn-yong.bejingyongjiu.com/20200115/1120_b73d03d2/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第51集
-http://cdn-yong.bejingyongjiu.com/20200115/1116_514dd5eb/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第52集
-http://cdn-yong.bejingyongjiu.com/20200116/1201_a679a51f/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第53集
-http://cdn-yong.bejingyongjiu.com/20200116/1200_1906921a/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第54集
-http://cdn-yong.bejingyongjiu.com/20200117/1304_438f9be6/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第55集
-http://cdn-yong.bejingyongjiu.com/20200117/1308_4e56296d/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第56集
-http://cdn-yong.bejingyongjiu.com/20200119/1427_97ce45bb/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第57集
-http://cdn-yong.bejingyongjiu.com/20200120/1506_858ea198/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第58集
-http://cdn-yong.bejingyongjiu.com/20200120/1511_0d8189dc/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第59集
-http://cdn-yong.bejingyongjiu.com/20200121/1622_dc6e43e7/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第60集
-http://cdn-yong.bejingyongjiu.com/20200121/1628_c6c75362/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第61集
-http://cdn-yong.bejingyongjiu.com/20200122/1701_9d186096/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第62集
-http://cdn-yong.bejingyongjiu.com/20200122/1709_422db633/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第63集
-http://cdn-yong.bejingyongjiu.com/20200123/1772_1b7a1da2/index.m3u8
-#EXTINF:-1 group-title="大明风华",大明风华第64集
-http://cdn-yong.bejingyongjiu.com/20200123/1777_f4916991/index.m3u8
 #EXTINF:-1 group-title="美剧",性爱自修室第二季第01集
 http://cdn-yong.bejingyongjiu.com/20200118/1358_527b9730/index.m3u8
 #EXTINF:-1 group-title="美剧",性爱自修室第二季第02集
@@ -6415,10 +6166,6 @@ http://hljjms.chinashadt.com:2036/live/1003.stream/playlist.m3u8
 http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKiL4K2dmqqW7KGgn6uWoqc/playlist.m3u8
 #EXTINF:-1 group-title="地方台",海口双创频道
 http://hls.hkbtv.cn/hkbtv/0a2dnq6ZoKKknKeL4K2dmqqW7KGgn6uWoqU/playlist.m3u8
-#EXTINF:-1 group-title="广播",衡水文艺广播 FM96.1
-http://hls.hsrtv.cn/hls/hstv2.m3u8
-#EXTINF:-1 group-title="广播",衡阳交通广播 FM101.8
-http://hls.hsrtv.cn/hls/hstv1.m3u8
 #EXTINF:-1 group-title="地方台",衡水公共频道
 http://hls.hsrtv.cn/hls/radio3.m3u8
 #EXTINF:-1 group-title="地方台",衡水新闻广播
@@ -6433,8 +6180,6 @@ http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 http://hls.weathertv.cn/tslslive/qCFIfHB/hls/live_sd.m3u8
 #EXTINF:-1 group-title="地方台",鄂州新闻综合
 http://hndc.chinashadt.com:2036/live/stream:dctv-1.stream/playlist.m3u8
-#EXTINF:-1 group-title="广播",南宁交通音乐广播 FM107.4
-http://hnnz.chinashadt.com:1935/live/1002.stream/playlist.m3u8
 #EXTINF:-1 group-title="地方台",南阳科教频道
 http://hnnz.chinashadt.com:1935/live/1003.stream/playlist.m3u8
 #EXTINF:-1 group-title="地方台",清丰有线频道
@@ -6577,8 +6322,6 @@ http://live.ahsz.tv/video/s10001-kxjy/index.m3u8
 http://live.ahsz.tv/video/s10001-ggpd/index.m3u8
 #EXTINF:-1 group-title="地方台",宿州新闻综合
 http://live.ahsz.tv/video/s10001-szzh/index.m3u8
-#EXTINF:-1 group-title="广播",兰州交通音乐广播 FM99.5
-http://live.china-latv.com/channel1/sd/live.m3u8
 #EXTINF:-1 group-title="地方台",六安新闻综合
 http://live.china-latv.com/channel2/sd/live.m3u8
 #EXTINF:-1 group-title="Chinesse Canal",조선 TV
@@ -6595,8 +6338,6 @@ http://live.hnxttv.com:9601/live/dspd/800K/tzwj_video.m3u8
 http://live.hnxttv.com:9601/live/xwzh/800K/tzwj_video.m3u8
 #EXTINF:-1 group-title="地方台",怀柔电视台
 http://live.huairtv.com:1935/dvrLive/hrtvmb/playlist.m3u8
-#EXTINF:-1 group-title="广播",荆门交通音乐频率FM99.3
-http://live.jmtv.com.cn/jtyypl/sd/live.m3u8
 #EXTINF:-1 group-title="地方台",荆门公共农谷
 http://live.jmtv.com.cn/ngpd/sd/live.m3u8
 #EXTINF:-1 group-title="地方台",荆门教育
@@ -6661,8 +6402,6 @@ http://live.sichuanmianning.com/live/xwpd.m3u8
 http://live.wifizs.cn/qdly/sd/live.m3u8
 #EXTINF:-1 group-title="地方台",舟山新闻
 http://live.wifizs.cn/xwzh/sd/live.m3u8
-#EXTINF:-1 group-title="地方台",舟山新闻综合 (Opt-1)
-http://live.wifizs.cn/ggsh/sd/live.m3u8
 #EXTINF:-1 group-title="地方台",武进生活频道
 http://live.wjyanghu.com/live/CH1.m3u8
 #EXTINF:-1 group-title="地方台",永新电视一套
@@ -6699,12 +6438,8 @@ http://live.zohi.tv/video/s10001-FZTV-1/index.m3u8
 http://live.zscz0768.com/live/zhpd.m3u8
 #EXTINF:-1 group-title="地方台",福建公共
 http://live1.fzntv.cn/live/zohi_fztv1/playlist.m3u8
-#EXTINF:-1 group-title="地方台",福州生活 (Opt-1)
-http://live1.fzntv.cn/live/zohi_fztv2/playlist.m3u8
 #EXTINF:-1 group-title="地方台",福州影视
 http://live1.fzntv.cn/live/zohi_fztv4/playlist.m3u8
-#EXTINF:-1 group-title="地方台",福州综合 (Opt-1)
-http://live1.fzntv.cn/live/zohi_fztv3/playlist.m3u8
 #EXTINF:-1 group-title="地方台",晋城公共频道
 http://live1.jcbctv.com:1935/live/GGPD/1000K/tzwj_video.m3u8
 #EXTINF:-1 group-title="地方台",晋城新闻综合
@@ -6793,8 +6528,6 @@ http://movie.mcas.jp/mcas/wn1_2/master.m3u8
 http://ms003.happytv.com.tw/live/OcScNdWHvBx5P4w3/index.m3u8
 #EXTINF:-1 group-title="科教",BABY亲子台
 http://ms003.happytv.com.tw/live/F9YMztT5DcwWEr1f/index.m3u8
-#EXTINF:-1 group-title="地方台",山东教育 (Opt-2)
-http://m-tvlmedia.public.bcs.ysten.com/ysten-business/live/shandongjy/1.m3u8
 #EXTINF:-1 group-title="点播",终结者6：黑暗命运
 http://mudan.iii-kuyunzy.com/20200114/9515_c15c679d/index.m3u8
 #EXTINF:-1 group-title="点播",返校
@@ -6835,14 +6568,6 @@ http://mudan.iii-kuyunzy.com/20200112/9291_a8e5b468/index.m3u8
 http://mudan.iii-kuyunzy.com/20200112/9295_9c0e7011/index.m3u8
 #EXTINF:-1 group-title="记录片",吃货攻略2粤语版
 http://mudan.iii-kuyunzy.com/20200112/9302_0d5279c0/index.m3u8
-#EXTINF:-1 group-title="日本",NTV News24
-http://n24-cdn-live.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 group-title="News",NTV News24
-http://n24-cdn-live.ntv.co.jp/ch01/Low.m3u8
-#EXTINF:-1 group-title="Chinesse Canal",日テレ NEWS24
-https://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
-#EXTINF:-1 group-title="日本",NTV News24
-http://n24-cdn-live-b.ntv.co.jp/ch01/High.m3u8
 #EXTINF:-1 group-title="Chinesse Canal",广东国际
 http://nclive.grtn.cn/gjpd/sd/live.m3u8
 #EXTINF:-1 group-title="Chinesse Canal",廣東经济科教
@@ -6877,12 +6602,6 @@ http://newvod.ahbbtv.com:1935/live/ggpd/playlist.m3u8
 http://newvod.ahbbtv.com:1935/live/smil:xwpd_copy.smil/playlist.m3u8
 #EXTINF:-1 group-title="台港澳",NHK华语视界
 https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 group-title="日本",NHK World Japan 1m
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_1M.m3u8
-#EXTINF:-1 group-title="日本",NHK World Japan 200k
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_200k.m3u8
-#EXTINF:-1 group-title="日本",NHK World Japan 600k
-https://nhkwlive-xjp.akamaized.net/hls/live/2003458/nhkwlive-xjp/index_600k.m3u8
 #EXTINF:-1 group-title="日本",NHK World Japan live
 https://nhkworld.webcdn.stream.ne.jp/www11/nhkworld-tv/global/2003458/live.m3u8
 #EXTINF:-1 group-title="广播",内江交通广播FM102.7
@@ -6903,8 +6622,6 @@ http://pengshuilive.cbg.cn/pengshui01.m3u8
 http://pili-live-hls.140.i2863.com/i2863-140/live_140_236499.m3u8
 #EXTINF:-1 group-title="地方台",绵竹新闻综合
 http://pili-live-hls.66.i2863.com/i2863-66/live_66_404312.m3u8
-#EXTINF:-1 group-title="地方台",鹤山电台104.7
-http://pili-live-hls.hebitv.com/hebi/hebi.m3u8
 #EXTINF:-1 group-title="地方台",佛山公共
 http://pili-live-rtmp.wdit.com.cn/wditlive/fs_ggpd.m3u8
 #EXTINF:-1 group-title="Chinesse Canal",中华卫视台湾
@@ -6981,22 +6698,6 @@ http://snlive.scsntv.com:8091/live/gggy.m3u8
 http://snlive.scsntv.com:8091/live/xwzh.m3u8
 #EXTINF:-1 group-title="点播",雪暴
 https://solezy.me/20190616/iy5zmN3h/index.m3u8
-#EXTINF:-1 group-title="广播",安徽经济广播
-http://stream.ahrtv.cn/jjgb/sd/live.m3u8
-#EXTINF:-1 group-title="广播",安徽生活广播
-http://stream.ahrtv.cn/shgb/sd/live.m3u8
-#EXTINF:-1 group-title="广播",安徽音乐广播
-http://stream.ahrtv.cn/xnyy/sd/live.m3u8
-#EXTINF:-1 group-title="地方台",滨州新闻综合
-http://stream.bzcm.net/2/sd/live.m3u8
-#EXTINF:-1 group-title="地方台",长春娱乐
-http://stream.chinactv.com/ctv2/sd/live.m3u8
-#EXTINF:-1 group-title="地方台",长春市民
-http://stream.chinactv.com/ctv3/sd/live.m3u8
-#EXTINF:-1 group-title="地方台",长春商业
-http://stream.chinactv.com/ctv4/sd/live.m3u8
-#EXTINF:-1 group-title="地方台",长春新知
-http://stream.chinactv.com/ctv5/sd/live.m3u8
 #EXTINF:-1 group-title="Chinesse Canal",陽光衛視
 https://stream.chinasuntv.com/680k/mid_video_index.m3u8
 #EXTINF:-1 group-title="地方台",东阳新闻综合
@@ -7103,8 +6804,6 @@ http://stream2.jlntv.cn/jilin1/sd/live.m3u8
 http://stream2.jlntv.cn/ja/sd/live.m3u8
 #EXTINF:-1 group-title="地方台",监利综合
 http://stream2.jlntv.cn/baicheng1/sd/live.m3u8
-#EXTINF:-1 group-title="地方台",农林卫视 (Opt-2)
-http://stream2.jlntv.cn/naxw/sd/live.m3u8
 #EXTINF:-1 group-title="地方台",迁安快乐3频道
 http://stream2.jlntv.cn/liaoyuan1/sd/live.m3u8
 #EXTINF:-1 group-title="地方台",四平新闻综合
@@ -7623,6 +7322,8 @@ http://zigui.live.cjyun.org/video/s10111-ZGTV1.m3u8
 http://zsxj.chinashadt.com:1935/live/xjsh.stream_360p/playlist.m3u8
 #EXTINF:-1 group-title="地方台",辛集新闻频道
 http://zsxj.chinashadt.com:1935/live/xjxw.stream_360p/playlist.m3u8
+
+==================================== Hk====================================
 #EXTINF:-1 group-title="Tw-Hk",NTD TV
 https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 group-title="Tw-Hk",SET News
@@ -8599,47 +8300,47 @@ https://nimble.dashstreams.net/onestudio/planetshopping/playlist.m3u8
 https://nimble.dashstreams.net/onestudio/ReallyTv/playlist.m3u8
 #EXTINF:-1 group-title="USA;MYTVTOGO",Network � Wink TV
 https://nimble.dashstreams.net/onestudio/winktv/playlist.m3u8
-#EXTINF:-1 ,******** USA PLUTO  *********
+#EXTINF:-1 group-title="USA;MYTVTOGO",******** USA PLUTO  *********
 https://stitcher.pluto.tv/stitch/hls/channel/561d7d484dc7c8770484914a/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,Black Cinema
+#EXTINF:-1 group-title="USA;MYTVTOGO",Black Cinema
 https://stitcher.pluto.tv/stitch/hls/channel/561c5b0dada51f8004c4d855/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,Classic Movies
+#EXTINF:-1 group-title="USA;MYTVTOGO",Classic Movies
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,Flicks of Fury
+#EXTINF:-1 group-title="USA;MYTVTOGO",Flicks of Fury
 https://stitcher.pluto.tv/stitch/hls/channel/58e55b14ad8e9c364d55f717/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=2da9e920-7245-11e8-9b3e-a1006a2fd228&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,Forensic Files
+#EXTINF:-1 group-title="USA;MYTVTOGO",Forensic Files
 http://stitcher.pluto.tv/stitch/hls/channel/5bb1af6a268cae539bcedb0a/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:-1 ,FrontDoor
+#EXTINF:-1 group-title="USA;MYTVTOGO",FrontDoor
 https://stitcher.pluto.tv/stitch/hls/channel/5938888cd045ffce74cf9048/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=88958f10-712d-11e8-b9ec-8ba319deeadf&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,Horror 24/7
+#EXTINF:-1 group-title="USA;MYTVTOGO",Horror 24/7
 https://stitcher.pluto.tv/stitch/hls/channel/569546031a619b8f07ce6e25/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=6e360db0-724b-11e8-be77-bf4d1417b012&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 group-title="General",IGN
+#EXTINF:-1 group-title="USA;MYTVTOGO",IGN
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/561c5f613286e48904fb2677/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 ,Live Music Replay
+#EXTINF:-1 group-title="USA;MYTVTOGO",Live Music Replay
 http://stitcher.pluto.tv/stitch/hls/channel/5873fc21cad696fb37aa9054/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:-1 ,Movies 1
+#EXTINF:-1 group-title="USA;MYTVTOGO",Movies 1
 http://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=4eeea560-71a7-11e8-bcb5-a1b59b812cd7&deviceId=889540f0-712d-11e8-b9ec-8ba319deeadf&deviceVersion=37.0.2049.0&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.5783&deviceLon=-90.6666&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,MTV
+#EXTINF:-1 group-title="USA;MYTVTOGO",MTV
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca672f515a62078d2ec0ad2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 ,MTV Guy Code
+#EXTINF:-1 group-title="USA;MYTVTOGO",MTV Guy Code
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68acec16f7d78dc161fe1/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 ,MTV Dating
+#EXTINF:-1 group-title="USA;MYTVTOGO",MTV Dating
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca6899a37b88b269472ea4b/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 ,MTV Teen
+#EXTINF:-1 group-title="USA;MYTVTOGO",MTV Teen
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68a4737b88b269472f1be/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 ,MTV The Hills
+#EXTINF:-1 group-title="USA;MYTVTOGO",MTV The Hills
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5ca68b45d0bd6c2689c96537/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 ,NBC News
+#EXTINF:-1 group-title="USA;MYTVTOGO",NBC News
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:-1 ,News 24/7
+#EXTINF:-1 group-title="USA;MYTVTOGO",News 24/7
 http://stitcher.pluto.tv/stitch/hls/channel/5268abcd0ce20a8472000114/master.m3u8?sid=web24157571521&deviceType=web&deviceMake=web&deviceVersion=1&deviceId=web24163643069&appVersion=5.2.7&deviceDNT=web&deviceModel=web
-#EXTINF:-1 ,Paramount Movie Channel
+#EXTINF:-1 group-title="USA;MYTVTOGO",Paramount Movie Channel
 https://service-stitcher.clusters.pluto.tv/stitch/hls/channel/5cb0cae7a461406ffe3f5213/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=0c9d9262-bcd4-4b33-a78f-afea1ee4a67e&deviceId=781d4c79-fb21-4162-97a4-9f543683f22a&deviceVersion=74.0.3729.131&appVersion=2.5.1-f9a6096b469cfe5e4f1cc92cc697e8500e57891c&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&architecture=&serverSideAds=true
-#EXTINF:-1 ,Pluto Movies
+#EXTINF:-1 group-title="USA;MYTVTOGO",Pluto Movies
 https://stitcher.pluto.tv/stitch/hls/channel/564b9ed65fbbbca07e8d09d2/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,Pluto Movies 2
+#EXTINF:-1 group-title="USA;MYTVTOGO",Pluto Movies 2
 https://stitcher.pluto.tv/stitch/hls/channel/59976841a09fd13c9b590ce8/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
-#EXTINF:-1 ,Pluto TV Her
+#EXTINF:-1 group-title="USA;MYTVTOGO",Pluto TV Her
 https://stitcher.pluto.tv/stitch/hls/channel/5887ba337b8e94223eb121bd/master.m3u8?deviceType=web&deviceMake=Chrome&deviceModel=Chrome&sid=cb6766b0-8b86-11e8-828e-357f3c4bb5d0&deviceId=3fab0050-8b86-11e8-a44b-996a399dacd8&deviceVersion=67.0.3396.99&appVersion=2.0.0&deviceDNT=0&userId=&advertisingId=&deviceLat=38.8177&deviceLon=-77.1527&app_name=&appName=&appStoreUrl=&serverSideAds=true
 #EXTINF:-1 group-title="AUSTRALIEN",3AW Melburne (Webradio)
 http://melb3awvid-lh.akamaihd.net/i/melbournevid_1@109381/master.m3u8
@@ -12369,76 +12070,12 @@ http://www.djing.com/tv/session_summer-vibes.m3u8
 http://www.djing.com/tv/underground.m3u8
 #EXTINF:-1 group-title="International",DJing Wild EDM
 http://www.djing.com/tv/session_wild-edm.m3u8
-#EXTINF:-1 group-title="International",Jasmin TV
-http://109.71.162.112/live/sd.jasminchannel.stream/chunklist_w233748568.m3u8
-#EXTINF:-1 group-title="International",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1190948669.m3u8
-#EXTINF:-1 group-title="International",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1639491303.m3u8
-#EXTINF:-1 group-title="International",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w1770948941.m3u8
-#EXTINF:-1 group-title="International",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w815696992.m3u8
-#EXTINF:-1 group-title="International",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/chunklist_w934179313.m3u8
-#EXTINF:-1 group-title="International",Jasmin TV
-http://109.71.162.112:1935/live/hd.jasminchannel.stream/playlist.m3u8
-#EXTINF:-1 group-title="International",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/chunklist_w513145911.m3u8
-#EXTINF:-1 group-title="International",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/media_w852484650_6656.m3u8
-#EXTINF:-1 group-title="International",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/PAZ_Chega_de_Guerras.m3u8
-#EXTINF:-1 group-title="International",Jasmin TV
-http://109.71.162.112:1935/live/sd.jasminchannel.stream/playlist.m3u8
 #EXTINF:-1 group-title="International",Middle East Television
 http://cdg3.edge.tmed.pw/metv/abr_live/metv/live_1024p/chunks.m3u8
 #EXTINF:-1 group-title="International",Red Bull TV
 http://i.mjh.nz/au/Canberra/tv.redbull.tv.m3u8
 #EXTINF:-1 group-title="International",Red Bull TV
 http://i.mjh.nz/nz/tv.redbull.tv.m3u8
-#EXTINF:-1 group-title="International",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_1660.m3u8
-#EXTINF:-1 group-title="International",Red Bull TV
-http://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_6660.m3u8
-#EXTINF:-1 group-title="International",Red Bull TV
-https://dms.redbull.tv/v3/linear-borb/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJjYXRlZ29yeSI6InBlcnNvbmFsX2NvbXB1dGVyIiwiY291bnRyeV9jb2RlIjoidXMiLCJleHBpcmVzIjoiMjAxNy0wOS0xNlQxNzo0NjowMy45NjM0NjI4NDJaIiwib3NfZmFtaWx5IjoiaHR0cCIsInJlbW90ZV9pcCI6IjEwLjE1Ny4xMTIuMTQ4IiwidWEiOiJNb3ppbGxhLzUuMCAoTWFjaW50b3NoOyBJbnRlbCBNYWMgT1MgWCAxMF8xMl81KSBBcHBsZVdlYktpdC82MDMuMi40IChLSFRNTCwgbGlrZSBHZWNrbykgVmVyc2lvbi8xMC4xLjEgU2FmYXJpLzYwMy4yLjQiLCJ1aWQiOiJkOGZiZWYzMC0yZDhhLTQwYTUtOGNjNy0wNzgxNGJhMTliNzMifQ.Q_38FNpW3so5yrA5FQt9qBuix3dTulKpb6uQ0dRjrtY/playlist.m3u8
-#EXTINF:-1 group-title="International",Red Bull TV
-https://i.mjh.nz/au/Melbourne/tv.redbull.tv.m3u8
-#EXTINF:-1 group-title="International",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master.m3u8
-#EXTINF:-1 group-title="International",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_3360.m3u8
-#EXTINF:-1 group-title="International",Red Bull TV
-https://rbmn-live.akamaized.net/hls/live/590964/BoRB-AT/master_928.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Big Ass
-http://live.redtraffic.xyz/bigass.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Big Dick
-http://live.redtraffic.xyz/bigdick.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Big Tits
-http://live.redtraffic.xyz/bigtits.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Blowjob
-http://live.redtraffic.xyz/blowjob.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Cuckold
-http://live.redtraffic.xyz/cuckold.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Fetish
-http://live.redtraffic.xyz/fetish.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Hardcore
-http://live.redtraffic.xyz/hardcore.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Interracial
-http://live.redtraffic.xyz/interracial.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Latina
-http://live.redtraffic.xyz/latina.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Lesbian
-http://live.redtraffic.xyz/lesbian.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Pornstar
-http://live.redtraffic.xyz/pornstar.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Russian
-http://live.redtraffic.xyz/russian.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Teen
-http://live.redtraffic.xyz/teen.m3u8
-#EXTINF:-1 group-title="International",RedTraffic Threesome
-http://live.redtraffic.xyz/threesome.m3u8
 #EXTINF:-1 group-title="International",Royal Time TV
 http://stream.rtimetv.com/rtimetv/playlist.m3u8
 #EXTINF:-1 group-title="International",Silence TV
@@ -14797,26 +14434,6 @@ http://live.streamingfast.net/osmflivech44.m3u8
 http://live.streamingfast.net/osmflivech12.m3u8
 #EXTINF:-1 group-title="Taiwan",GOOD真情部落格
 http://live.streamingfast.net/osmflivech3.m3u8
-#EXTINF:-1 group-title="Taiwan",IBiza 1
-http://fxzb.bbwqg.cn/proxy/box.php?id=1
-#EXTINF:-1 group-title="Taiwan",IBiza 10
-http://fxzb.bbwqg.cn/proxy/box.php?id=10
-#EXTINF:-1 group-title="Taiwan",IBiza 2
-http://fxzb.bbwqg.cn/proxy/box.php?id=2
-#EXTINF:-1 group-title="Taiwan",IBiza 3
-http://fxzb.bbwqg.cn/proxy/box.php?id=3
-#EXTINF:-1 group-title="Taiwan",IBiza 4
-http://fxzb.bbwqg.cn/proxy/box.php?id=4
-#EXTINF:-1 group-title="Taiwan",IBiza 5
-http://fxzb.bbwqg.cn/proxy/box.php?id=5
-#EXTINF:-1 group-title="Taiwan",IBiza 6
-http://fxzb.bbwqg.cn/proxy/box.php?id=6
-#EXTINF:-1 group-title="Taiwan",IBiza 7
-http://fxzb.bbwqg.cn/proxy/box.php?id=7
-#EXTINF:-1 group-title="Taiwan",IBiza 8
-http://fxzb.bbwqg.cn/proxy/box.php?id=8
-#EXTINF:-1 group-title="Taiwan",IBiza 9
-http://fxzb.bbwqg.cn/proxy/box.php?id=9
 #EXTINF:-1 group-title="Taiwan",NTD TV
 https://live.ntdimg.com/aplive200/playlist.m3u8
 #EXTINF:-1 group-title="Taiwan",SET News
